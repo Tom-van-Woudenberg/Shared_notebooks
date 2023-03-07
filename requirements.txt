@@ -1,3 +1,5 @@
 numpy
 sympy
 matplotlib
+rise
+hide_code
